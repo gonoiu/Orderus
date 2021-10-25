@@ -1,8 +1,8 @@
 <?php 
 
-namespace Orderus\Game\Monster;
+namespace Orderus\Game\Beast;
 
-class Monster {
+class Beast {
 	public function __construct() 
 	{
 		
